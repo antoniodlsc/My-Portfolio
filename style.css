@@ -1,21 +1,19 @@
+.principalC{
+  height: 100vh;
+}
+
 .section1{
   background-color: #A6B1E1;
-  height: 800px;
+  padding-bottom: 250px;
 }
   
 .titulo1{
   margin-top: 197px;;
   margin-left: 60px;
   font-family: "Bree Serif";
-  font-size: 69px;
-  
-}
+  font-size: 69px; }
 
-.image2{
 
-  margin-left: 4%;
-  margin-top: 199px;
-}
 .name1{
   margin-left: 60px;
   font-family:"DM Serif Display" ;
@@ -42,7 +40,7 @@
 
 .section2{
   background-color: #DCD6F7;
-  height: 600px;
+  height: 100vh;
 }
 .MyDescription{
   font-family: sans-serif;
